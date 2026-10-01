@@ -2,16 +2,21 @@
     "ServerKind": 0,
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "Not-Laptop"
-    ,"ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/classplans.json",
-        "Version": 1
+    ,
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Classplans.json",
+        "Version": 0
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/timelayouts.json",
-        "Version": 1
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Timelayouts.json",
+        "Version": 0
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/subjects.json",
-        "Version": 1
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Subjects.json",
+        "Version": 0
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/classisland-mgmt-cfg/master/Policy.json",
+        "Version": 0
     }
 }
