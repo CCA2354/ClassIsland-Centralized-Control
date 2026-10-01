@@ -2,4 +2,16 @@
     "ServerKind": 0,
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "Not-Laptop"
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/subjects.json",
+        "Version": 1
+    }
 }
