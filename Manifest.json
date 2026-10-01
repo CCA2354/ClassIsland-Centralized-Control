@@ -16,7 +16,7 @@
         "Version": 0
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/classisland-mgmt-cfg/master/Policy.json",
+        "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Policy.json",
         "Version": 0
     }
 }
