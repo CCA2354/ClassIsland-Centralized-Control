@@ -4,18 +4,18 @@
     "OrganizationName": "Not-Laptop",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Classplans.json",
-        "Version": 3
+        "Version": 0
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Timelayouts.json",
-        "Version": 3
+        "Version": 0
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Subjects.json",
-        "Version": 3
+        "Version": 0
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Policy.json",
-        "Version": 3
+        "Version": 0
     }
 }
