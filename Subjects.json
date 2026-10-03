@@ -9,7 +9,21 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "语文课 即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "语文课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "语文课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -19,7 +33,21 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "数学课 即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "数学课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "数学课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -29,7 +57,21 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "英语课 即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "英语课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "英语课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -39,7 +81,21 @@
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 240,
+          "ClassOnPreparingText": "下节课为跑班课，请准备好所需用具并及时前往相应教室",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "跑班课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "生物课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -49,7 +105,21 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "物理课 即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "物理课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "物理课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -59,7 +129,21 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "化学课 即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "化学课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "化学课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -69,7 +153,21 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "美术课 即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "美术课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "美术课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -79,7 +177,21 @@
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 300,
+          "ClassOnPreparingText": "下节课为体育课，请及时下楼",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "体育课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "体育课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -89,7 +201,21 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "请坐和放宽，安心自习",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "自习",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "自习",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -99,97 +225,237 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "请坐和放宽，安心自习",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "晚自习",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "晚自习",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "44a6e097-7ad3-49bf-abc8-b5223c29cecb": {
       "Name": "语文考试",
-      "Initial": "语考",
+      "Initial": "语(考)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 240,
+          "ClassOnPreparingText": "请坐和放宽，准备好接收试卷和答题纸",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "语文考试",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "语文考试",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "f73bb262-81f0-478d-8e61-5245520d2cb0": {
       "Name": "数学考试",
-      "Initial": "数考",
+      "Initial": "数(考)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 240,
+          "ClassOnPreparingText": "请坐和放宽，准备好接收试卷和答题纸",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "数学考试",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "数学考试",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "44289d70-e493-426a-9cd2-cd4374c4da85": {
       "Name": "英语考试",
-      "Initial": "英考",
+      "Initial": "英(考)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 240,
+          "ClassOnPreparingText": "请坐和放宽，准备好接收试卷和答题纸",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "英语考试",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "英语考试",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "61b173bf-be0a-4683-b2d2-e3aee7179d21": {
       "Name": "跑班科目考试",
-      "Initial": "跑考",
+      "Initial": "跑(考)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 300,
+          "ClassOnPreparingText": "跑班科目考试——请前往相应班级准备考试",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "跑班科目考试",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "生物考试",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "dd6f709d-12ea-4133-a2c8-d52c9d3eb9bb": {
       "Name": "物理考试",
-      "Initial": "物考",
+      "Initial": "物(考)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 240,
+          "ClassOnPreparingText": "请坐和放宽，准备好接收试卷和答题纸",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "物理考试",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "物理考试",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "dc02e40e-5338-4389-ac47-0d873edca040": {
       "Name": "化学考试",
-      "Initial": "化考",
+      "Initial": "化(考)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 240,
+          "ClassOnPreparingText": "请坐和放宽，准备好接收试卷和答题纸",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "化学考试",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "化学考试",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "6bb33a93-a010-411a-92ca-9a8602b0a08b": {
-      "Name": "听力与口语表达",
+      "Name": "英语(听力与口语表达)",
       "Initial": "听口",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 300,
+          "ClassOnPreparingText": "下节课为英语(听口)课，请准备好笔和草稿纸并及时前往电子阅览室",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "听力与口语表达课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "听力与口语表达课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "139e5e08-836f-4a86-8672-056dad987c8d": {
       "Name": "英语(外教)",
       "Initial": "外教",
-      "TeacherName": "",
+      "TeacherName": "Derek&Josh",
       "IsOutDoor": true,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 300,
+          "ClassOnPreparingText": "下节课为英语(外教)课，请准备好笔和英语书并及时前往相应教室",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "英语(外教)课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "Welcome, Mr.Derek !",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
     "42118951-c40f-4b85-9f26-8be67ee75d68": {
-      "Name": "政治合格考",
-      "Initial": "政合",
+      "Name": "政治(合格考)",
+      "Initial": "政(合)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "课程即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "政治(合格考)",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "政治(合格考)",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -199,7 +465,21 @@
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 300,
+          "ClassOnPreparingText": "升旗仪式/课间操即将开始，请及时下楼",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "升旗仪式/课间操",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "升旗仪式/课间操",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     },
@@ -209,7 +489,69 @@
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
-
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 120,
+          "ClassOnPreparingText": "课程即将开始，请坐和放宽",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "班会课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "班会课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "7b588fa4-e4be-4d1e-9ebf-b524b4ef2431": {
+      "Name": "化学(实验)",
+      "Initial": "化(实验)",
+      "TeacherName": "",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 300,
+          "ClassOnPreparingText": "下节课为化学(实验)课，请准备好笔和实验单并及时前往实验室",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "化学(实验)课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "化学(实验)课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "981c94ae-74e6-4b25-aab1-618816ca4e84": {
+      "Name": "物理(实验)",
+      "Initial": "物(实验)",
+      "TeacherName": "",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 300,
+          "ClassOnPreparingText": "下节课为物理(实验)课，请准备好笔和实验单并及时前往实验室",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "物理(实验)",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "物理(实验)课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
       },
       "IsActive": false
     }
