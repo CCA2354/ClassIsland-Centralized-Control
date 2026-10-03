@@ -1,4 +1,4 @@
-{
+锘縶
     "Name": "",
     "TimeLayouts": {},
     "ClassPlans": {
@@ -98,7 +98,7 @@
           "IsActive": false
         }
       ],
-      "Name": "周日",
+      "Name": "鍛ㄦ棩",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2026-10-01T19:38:01.3384093+08:00",
@@ -215,7 +215,7 @@
           "IsActive": false
         }
       ],
-      "Name": "周一",
+      "Name": "鍛ㄤ竴",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2026-10-01T19:40:36.908048+08:00",
@@ -332,7 +332,7 @@
           "IsActive": false
         }
       ],
-      "Name": "周二",
+      "Name": "鍛ㄤ簩",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2026-10-01T19:56:50.5916783+08:00",
@@ -449,7 +449,7 @@
           "IsActive": false
         }
       ],
-      "Name": "周三",
+      "Name": "鍛ㄤ笁",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2026-10-02T09:16:37.5774979+08:00",
@@ -566,7 +566,7 @@
           "IsActive": false
         }
       ],
-      "Name": "周四",
+      "Name": "鍛ㄥ洓",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2026-10-02T09:17:53.3130464+08:00",
@@ -683,7 +683,7 @@
           "IsActive": false
         }
       ],
-      "Name": "周五",
+      "Name": "鍛ㄤ簲",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2026-10-02T09:20:15.5280344+08:00",
@@ -791,7 +791,7 @@
           "IsActive": false
         }
       ],
-      "Name": "周六",
+      "Name": "鍛ㄥ叚",
       "IsOverlay": false,
       "OverlaySourceId": null,
       "OverlaySetupTime": "2026-10-02T09:22:11.352309+08:00",
