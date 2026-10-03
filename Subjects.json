@@ -4,8 +4,8 @@
     "ClassPlans": {},
     "Subjects": {
     "d98a6ae5-3308-40d8-8092-9d38e652a893": {
-      "Name": "è¯­æ–‡",
-      "Initial": "è¯­",
+      "Name": "ÓïÎÄ",
+      "Initial": "Óï",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -14,12 +14,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "è¯­æ–‡è¯¾ å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è¯­æ–‡è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "è¯­æ–‡è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÓïÎÄ¿Î ¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÓïÎÄ¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÓïÎÄ¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -28,8 +28,8 @@
       "IsActive": false
     },
     "f45b8f0d-c82e-4c3a-8a0a-f369d53ed4d2": {
-      "Name": "æ•°å­¦",
-      "Initial": "æ•°",
+      "Name": "ÊıÑ§",
+      "Initial": "Êı",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -38,12 +38,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "æ•°å­¦è¯¾ å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "æ•°å­¦è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "æ•°å­¦è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÊıÑ§¿Î ¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÊıÑ§¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÊıÑ§¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -52,8 +52,8 @@
       "IsActive": false
     },
     "12aeda80-ae83-4cbf-8973-b9bd56fecb4f": {
-      "Name": "è‹±è¯­",
-      "Initial": "è‹±",
+      "Name": "Ó¢Óï",
+      "Initial": "Ó¢",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -62,12 +62,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "è‹±è¯­è¯¾ å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è‹±è¯­è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "è‹±è¯­è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Ó¢Óï¿Î ¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "Ó¢Óï¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "Ó¢Óï¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -76,8 +76,8 @@
       "IsActive": false
     },
     "384a2107-6364-4a66-83ee-187de751fb7c": {
-      "Name": "è·‘ç­",
-      "Initial": "è·‘",
+      "Name": "ÅÜ°à",
+      "Initial": "ÅÜ",
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
@@ -86,12 +86,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 240,
-          "ClassOnPreparingText": "ä¸‹èŠ‚è¯¾ä¸ºè·‘ç­è¯¾ï¼Œè¯·å‡†å¤‡å¥½æ‰€éœ€ç”¨å…·å¹¶åŠæ—¶å‰å¾€ç›¸åº”æ•™å®¤",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è·‘ç­è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ç”Ÿç‰©è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÏÂ½Ú¿ÎÎªÅÜ°à¿Î£¬Çë×¼±¸ºÃËùĞèÓÃ¾ß²¢¼°Ê±Ç°ÍùÏàÓ¦½ÌÊÒ",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÅÜ°à¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÉúÎï¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -100,8 +100,8 @@
       "IsActive": false
     },
     "59295635-c3c2-4ea8-9a1d-6d29a87ed225": {
-      "Name": "ç‰©ç†",
-      "Initial": "ç‰©",
+      "Name": "ÎïÀí",
+      "Initial": "Îï",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -110,12 +110,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "ç‰©ç†è¯¾ å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "ç‰©ç†è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ç‰©ç†è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÎïÀí¿Î ¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÎïÀí¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÎïÀí¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -124,8 +124,8 @@
       "IsActive": false
     },
     "cb4fef32-32d5-4adb-bebd-cfd87c1915e9": {
-      "Name": "åŒ–å­¦",
-      "Initial": "åŒ–",
+      "Name": "»¯Ñ§",
+      "Initial": "»¯",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -134,12 +134,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "åŒ–å­¦è¯¾ å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "åŒ–å­¦è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "åŒ–å­¦è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "»¯Ñ§¿Î ¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "»¯Ñ§¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "»¯Ñ§¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -148,8 +148,8 @@
       "IsActive": false
     },
     "064c4799-02e8-4feb-b8b8-a08400da6729": {
-      "Name": "ç¾æœ¯",
-      "Initial": "ç¾",
+      "Name": "ÃÀÊõ",
+      "Initial": "ÃÀ",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -158,12 +158,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "ç¾æœ¯è¯¾ å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "ç¾æœ¯è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ç¾æœ¯è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÃÀÊõ¿Î ¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÃÀÊõ¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÃÀÊõ¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -172,8 +172,8 @@
       "IsActive": false
     },
     "3d1f948f-0ce2-4dc5-991b-563e5f2fbf7c": {
-      "Name": "ä½“è‚²",
-      "Initial": "ä½“",
+      "Name": "ÌåÓı",
+      "Initial": "Ìå",
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
@@ -182,12 +182,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 300,
-          "ClassOnPreparingText": "ä¸‹èŠ‚è¯¾ä¸ºä½“è‚²è¯¾ï¼Œè¯·åŠæ—¶ä¸‹æ¥¼",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "ä½“è‚²è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ä½“è‚²è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÏÂ½Ú¿ÎÎªÌåÓı¿Î£¬Çë¼°Ê±ÏÂÂ¥",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÌåÓı¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÌåÓı¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -196,8 +196,8 @@
       "IsActive": false
     },
     "004104d0-2a95-40f8-8b27-8bd1fbcb4ca6": {
-      "Name": "æ™®é€šè‡ªä¹ ",
-      "Initial": "ä¹ ",
+      "Name": "ÆÕÍ¨×ÔÏ°",
+      "Initial": "Ï°",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -206,12 +206,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "è¯·åå’Œæ”¾å®½ï¼Œå®‰å¿ƒè‡ªä¹ ",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è‡ªä¹ ",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "è‡ªä¹ ",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Çë×øºÍ·Å¿í£¬°²ĞÄ×ÔÏ°",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "×ÔÏ°",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "×ÔÏ°",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -220,8 +220,8 @@
       "IsActive": false
     },
     "c4e3bd85-8db8-4aaf-bef1-ca6d9dd4ba38": {
-      "Name": "æ™šè‡ªä¹ ",
-      "Initial": "æ™šè‡ªä¹ ",
+      "Name": "Íí×ÔÏ°",
+      "Initial": "Íí×ÔÏ°",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -230,12 +230,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "è¯·åå’Œæ”¾å®½ï¼Œå®‰å¿ƒè‡ªä¹ ",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "æ™šè‡ªä¹ ",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "æ™šè‡ªä¹ ",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Çë×øºÍ·Å¿í£¬°²ĞÄ×ÔÏ°",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "Íí×ÔÏ°",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "Íí×ÔÏ°",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -244,8 +244,8 @@
       "IsActive": false
     },
     "44a6e097-7ad3-49bf-abc8-b5223c29cecb": {
-      "Name": "è¯­æ–‡è€ƒè¯•",
-      "Initial": "è¯­(è€ƒ)",
+      "Name": "ÓïÎÄ¿¼ÊÔ",
+      "Initial": "Óï(¿¼)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -254,12 +254,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 240,
-          "ClassOnPreparingText": "è¯·åå’Œæ”¾å®½ï¼Œå‡†å¤‡å¥½æ¥æ”¶è¯•å·å’Œç­”é¢˜çº¸",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è¯­æ–‡è€ƒè¯•",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "è¯­æ–‡è€ƒè¯•",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Çë×øºÍ·Å¿í£¬×¼±¸ºÃ½ÓÊÕÊÔ¾íºÍ´ğÌâÖ½",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÓïÎÄ¿¼ÊÔ",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÓïÎÄ¿¼ÊÔ",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -268,8 +268,8 @@
       "IsActive": false
     },
     "f73bb262-81f0-478d-8e61-5245520d2cb0": {
-      "Name": "æ•°å­¦è€ƒè¯•",
-      "Initial": "æ•°(è€ƒ)",
+      "Name": "ÊıÑ§¿¼ÊÔ",
+      "Initial": "Êı(¿¼)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -278,12 +278,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 240,
-          "ClassOnPreparingText": "è¯·åå’Œæ”¾å®½ï¼Œå‡†å¤‡å¥½æ¥æ”¶è¯•å·å’Œç­”é¢˜çº¸",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "æ•°å­¦è€ƒè¯•",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "æ•°å­¦è€ƒè¯•",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Çë×øºÍ·Å¿í£¬×¼±¸ºÃ½ÓÊÕÊÔ¾íºÍ´ğÌâÖ½",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÊıÑ§¿¼ÊÔ",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÊıÑ§¿¼ÊÔ",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -292,8 +292,8 @@
       "IsActive": false
     },
     "44289d70-e493-426a-9cd2-cd4374c4da85": {
-      "Name": "è‹±è¯­è€ƒè¯•",
-      "Initial": "è‹±(è€ƒ)",
+      "Name": "Ó¢Óï¿¼ÊÔ",
+      "Initial": "Ó¢(¿¼)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -302,12 +302,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 240,
-          "ClassOnPreparingText": "è¯·åå’Œæ”¾å®½ï¼Œå‡†å¤‡å¥½æ¥æ”¶è¯•å·å’Œç­”é¢˜çº¸",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è‹±è¯­è€ƒè¯•",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "è‹±è¯­è€ƒè¯•",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Çë×øºÍ·Å¿í£¬×¼±¸ºÃ½ÓÊÕÊÔ¾íºÍ´ğÌâÖ½",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "Ó¢Óï¿¼ÊÔ",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "Ó¢Óï¿¼ÊÔ",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -316,8 +316,8 @@
       "IsActive": false
     },
     "61b173bf-be0a-4683-b2d2-e3aee7179d21": {
-      "Name": "è·‘ç­ç§‘ç›®è€ƒè¯•",
-      "Initial": "è·‘(è€ƒ)",
+      "Name": "ÅÜ°à¿ÆÄ¿¿¼ÊÔ",
+      "Initial": "ÅÜ(¿¼)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -326,12 +326,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 300,
-          "ClassOnPreparingText": "è·‘ç­ç§‘ç›®è€ƒè¯•â€”â€”è¯·å‰å¾€ç›¸åº”ç­çº§å‡†å¤‡è€ƒè¯•",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è·‘ç­ç§‘ç›®è€ƒè¯•",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ç”Ÿç‰©è€ƒè¯•",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÅÜ°à¿ÆÄ¿¿¼ÊÔ¡ª¡ªÇëÇ°ÍùÏàÓ¦°à¼¶×¼±¸¿¼ÊÔ",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÅÜ°à¿ÆÄ¿¿¼ÊÔ",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÉúÎï¿¼ÊÔ",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -340,8 +340,8 @@
       "IsActive": false
     },
     "dd6f709d-12ea-4133-a2c8-d52c9d3eb9bb": {
-      "Name": "ç‰©ç†è€ƒè¯•",
-      "Initial": "ç‰©(è€ƒ)",
+      "Name": "ÎïÀí¿¼ÊÔ",
+      "Initial": "Îï(¿¼)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -350,12 +350,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 240,
-          "ClassOnPreparingText": "è¯·åå’Œæ”¾å®½ï¼Œå‡†å¤‡å¥½æ¥æ”¶è¯•å·å’Œç­”é¢˜çº¸",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "ç‰©ç†è€ƒè¯•",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ç‰©ç†è€ƒè¯•",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Çë×øºÍ·Å¿í£¬×¼±¸ºÃ½ÓÊÕÊÔ¾íºÍ´ğÌâÖ½",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÎïÀí¿¼ÊÔ",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÎïÀí¿¼ÊÔ",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -364,8 +364,8 @@
       "IsActive": false
     },
     "dc02e40e-5338-4389-ac47-0d873edca040": {
-      "Name": "åŒ–å­¦è€ƒè¯•",
-      "Initial": "åŒ–(è€ƒ)",
+      "Name": "»¯Ñ§¿¼ÊÔ",
+      "Initial": "»¯(¿¼)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -374,12 +374,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 240,
-          "ClassOnPreparingText": "è¯·åå’Œæ”¾å®½ï¼Œå‡†å¤‡å¥½æ¥æ”¶è¯•å·å’Œç­”é¢˜çº¸",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "åŒ–å­¦è€ƒè¯•",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "åŒ–å­¦è€ƒè¯•",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "Çë×øºÍ·Å¿í£¬×¼±¸ºÃ½ÓÊÕÊÔ¾íºÍ´ğÌâÖ½",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "»¯Ñ§¿¼ÊÔ",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "»¯Ñ§¿¼ÊÔ",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -388,8 +388,8 @@
       "IsActive": false
     },
     "6bb33a93-a010-411a-92ca-9a8602b0a08b": {
-      "Name": "è‹±è¯­(å¬åŠ›ä¸å£è¯­è¡¨è¾¾)",
-      "Initial": "å¬å£",
+      "Name": "Ó¢Óï(ÌıÁ¦Óë¿ÚÓï±í´ï)",
+      "Initial": "Ìı¿Ú",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -398,12 +398,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 300,
-          "ClassOnPreparingText": "ä¸‹èŠ‚è¯¾ä¸ºè‹±è¯­(å¬å£)è¯¾ï¼Œè¯·å‡†å¤‡å¥½ç¬”å’Œè‰ç¨¿çº¸å¹¶åŠæ—¶å‰å¾€ç”µå­é˜…è§ˆå®¤",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "å¬åŠ›ä¸å£è¯­è¡¨è¾¾è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "å¬åŠ›ä¸å£è¯­è¡¨è¾¾è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÏÂ½Ú¿ÎÎªÓ¢Óï(Ìı¿Ú)¿Î£¬Çë×¼±¸ºÃ±ÊºÍ²İ¸åÖ½²¢¼°Ê±Ç°Íùµç×ÓÔÄÀÀÊÒ",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÌıÁ¦Óë¿ÚÓï±í´ï¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÌıÁ¦Óë¿ÚÓï±í´ï¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -412,8 +412,8 @@
       "IsActive": false
     },
     "139e5e08-836f-4a86-8672-056dad987c8d": {
-      "Name": "è‹±è¯­(å¤–æ•™)",
-      "Initial": "å¤–æ•™",
+      "Name": "Ó¢Óï(Íâ½Ì)",
+      "Initial": "Íâ½Ì",
       "TeacherName": "Derek&Josh",
       "IsOutDoor": true,
       "AttachedObjects": {
@@ -422,12 +422,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 300,
-          "ClassOnPreparingText": "ä¸‹èŠ‚è¯¾ä¸ºè‹±è¯­(å¤–æ•™)è¯¾ï¼Œè¯·å‡†å¤‡å¥½ç¬”å’Œè‹±è¯­ä¹¦å¹¶åŠæ—¶å‰å¾€ç›¸åº”æ•™å®¤",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "è‹±è¯­(å¤–æ•™)è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
+          "ClassOnPreparingText": "ÏÂ½Ú¿ÎÎªÓ¢Óï(Íâ½Ì)¿Î£¬Çë×¼±¸ºÃ±ÊºÍÓ¢ÓïÊé²¢¼°Ê±Ç°ÍùÏàÓ¦½ÌÊÒ",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "Ó¢Óï(Íâ½Ì)¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
           "ClassOnMaskText": "Welcome, Mr.Derek !",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -436,8 +436,8 @@
       "IsActive": false
     },
     "42118951-c40f-4b85-9f26-8be67ee75d68": {
-      "Name": "æ”¿æ²»(åˆæ ¼è€ƒ)",
-      "Initial": "æ”¿(åˆ)",
+      "Name": "ÕşÖÎ(ºÏ¸ñ¿¼)",
+      "Initial": "Õş(ºÏ)",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -446,12 +446,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "è¯¾ç¨‹å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "æ”¿æ²»(åˆæ ¼è€ƒ)",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "æ”¿æ²»(åˆæ ¼è€ƒ)",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "¿Î³Ì¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÕşÖÎ(ºÏ¸ñ¿¼)",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÕşÖÎ(ºÏ¸ñ¿¼)",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -460,8 +460,8 @@
       "IsActive": false
     },
     "b7ea1355-e59b-402e-9f5e-02ae4b0abd87": {
-      "Name": "å‡æ——ä»ªå¼/è¯¾é—´æ“",
-      "Initial": "å¤§è¯¾é—´",
+      "Name": "ÉıÆìÒÇÊ½/¿Î¼ä²Ù",
+      "Initial": "´ó¿Î¼ä",
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
@@ -470,12 +470,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 300,
-          "ClassOnPreparingText": "å‡æ——ä»ªå¼/è¯¾é—´æ“å³å°†å¼€å§‹ï¼Œè¯·åŠæ—¶ä¸‹æ¥¼",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "å‡æ——ä»ªå¼/è¯¾é—´æ“",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "å‡æ——ä»ªå¼/è¯¾é—´æ“",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÉıÆìÒÇÊ½/¿Î¼ä²Ù¼´½«¿ªÊ¼£¬Çë¼°Ê±ÏÂÂ¥",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÉıÆìÒÇÊ½/¿Î¼ä²Ù",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÉıÆìÒÇÊ½/¿Î¼ä²Ù",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -484,8 +484,8 @@
       "IsActive": false
     },
     "7aefae8b-261b-4eda-9048-e84aad826311": {
-      "Name": "ç­ä¼š",
-      "Initial": "ç­",
+      "Name": "°à»á",
+      "Initial": "°à",
       "TeacherName": "",
       "IsOutDoor": false,
       "AttachedObjects": {
@@ -494,12 +494,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 120,
-          "ClassOnPreparingText": "è¯¾ç¨‹å³å°†å¼€å§‹ï¼Œè¯·åå’Œæ”¾å®½",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "ç­ä¼šè¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ç­ä¼šè¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "¿Î³Ì¼´½«¿ªÊ¼£¬Çë×øºÍ·Å¿í",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "°à»á¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "°à»á¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -508,8 +508,8 @@
       "IsActive": false
     },
     "7b588fa4-e4be-4d1e-9ebf-b524b4ef2431": {
-      "Name": "åŒ–å­¦(å®éªŒ)",
-      "Initial": "åŒ–(å®éªŒ)",
+      "Name": "»¯Ñ§(ÊµÑé)",
+      "Initial": "»¯(ÊµÑé)",
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
@@ -518,12 +518,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 300,
-          "ClassOnPreparingText": "ä¸‹èŠ‚è¯¾ä¸ºåŒ–å­¦(å®éªŒ)è¯¾ï¼Œè¯·å‡†å¤‡å¥½ç¬”å’Œå®éªŒå•å¹¶åŠæ—¶å‰å¾€å®éªŒå®¤",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "åŒ–å­¦(å®éªŒ)è¯¾",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "åŒ–å­¦(å®éªŒ)è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÏÂ½Ú¿ÎÎª»¯Ñ§(ÊµÑé)¿Î£¬Çë×¼±¸ºÃ±ÊºÍÊµÑéµ¥²¢¼°Ê±Ç°ÍùÊµÑéÊÒ",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "»¯Ñ§(ÊµÑé)¿Î",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "»¯Ñ§(ÊµÑé)¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -532,8 +532,8 @@
       "IsActive": false
     },
     "981c94ae-74e6-4b25-aab1-618816ca4e84": {
-      "Name": "ç‰©ç†(å®éªŒ)",
-      "Initial": "ç‰©(å®éªŒ)",
+      "Name": "ÎïÀí(ÊµÑé)",
+      "Initial": "Îï(ÊµÑé)",
       "TeacherName": "",
       "IsOutDoor": true,
       "AttachedObjects": {
@@ -542,12 +542,12 @@
           "IsClassOnPreparingNotificationEnabled": true,
           "IsClassOffNotificationEnabled": true,
           "ClassPreparingDeltaTime": 300,
-          "ClassOnPreparingText": "ä¸‹èŠ‚è¯¾ä¸ºç‰©ç†(å®éªŒ)è¯¾ï¼Œè¯·å‡†å¤‡å¥½ç¬”å’Œå®éªŒå•å¹¶åŠæ—¶å‰å¾€å®éªŒå®¤",
-          "OutdoorClassOnPreparingText": "ä¸‹èŠ‚è¯¾ç¨‹ä¸ºæˆ·å¤–è¯¾ç¨‹ï¼Œè¯·åˆç†è§„åˆ’æ—¶é—´ï¼Œåšå¥½ä¸Šè¯¾å‡†å¤‡ã€‚",
-          "ClassOnPreparingMaskText": "ç‰©ç†(å®éªŒ)",
-          "OutdoorClassOnPreparingMaskText": "å³å°†ä¸Šè¯¾",
-          "ClassOnMaskText": "ç‰©ç†(å®éªŒ)è¯¾",
-          "ClassOffMaskText": "è¯¾é—´ä¼‘æ¯",
+          "ClassOnPreparingText": "ÏÂ½Ú¿ÎÎªÎïÀí(ÊµÑé)¿Î£¬Çë×¼±¸ºÃ±ÊºÍÊµÑéµ¥²¢¼°Ê±Ç°ÍùÊµÑéÊÒ",
+          "OutdoorClassOnPreparingText": "ÏÂ½Ú¿Î³ÌÎª»§Íâ¿Î³Ì£¬ÇëºÏÀí¹æ»®Ê±¼ä£¬×öºÃÉÏ¿Î×¼±¸¡£",
+          "ClassOnPreparingMaskText": "ÎïÀí(ÊµÑé)",
+          "OutdoorClassOnPreparingMaskText": "¼´½«ÉÏ¿Î",
+          "ClassOnMaskText": "ÎïÀí(ÊµÑé)¿Î",
+          "ClassOffMaskText": "¿Î¼äĞİÏ¢",
           "ClassOffOverlayText": "",
           "IsAttachSettingsEnabled": true,
           "IsActive": false
@@ -562,12 +562,12 @@
   "TempClassPlanSetupTime": "2026-10-03T16:40:09.3953572+08:00",
   "ClassPlanGroups": {
     "acaf4ef0-e261-4262-b941-34ea93cb4369": {
-      "Name": "é»˜è®¤",
+      "Name": "Ä¬ÈÏ",
       "IsGlobal": false,
       "IsActive": false
     },
     "00000000-0000-0000-0000-000000000000": {
-      "Name": "å…¨å±€è¯¾è¡¨ç¾¤",
+      "Name": "È«¾Ö¿Î±íÈº",
       "IsGlobal": true,
       "IsActive": false
     }

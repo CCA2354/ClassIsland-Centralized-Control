@@ -4,7 +4,7 @@
           "be3912ab-3d72-42c8-9334-acbf9e64e0e1": {
       "IsOverlay": false,
       "OverlaySourceId": null,
-      "Name": "å¹³æ—¥",
+      "Name": "Æ½ÈÕ",
       "Layouts": [
         {
           "StartSecond": "",
@@ -38,7 +38,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "ae33bafb-f98e-4868-98ba-9eea3fbc73a9",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": true,
@@ -308,7 +308,7 @@
           "TimeType": 1,
           "IsHideDefault": false,
           "DefaultClassId": "00000000-0000-0000-0000-000000000000",
-          "BreakName": "åˆä¼‘/åˆé¤æ—¶é—´",
+          "BreakName": "ÎçĞİ/Îç²ÍÊ±¼ä",
           "ActionSet": null,
           "AttachedObjects": {
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -352,7 +352,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "f9e82468-c202-4d80-840e-05a53bc625b8",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": true,
@@ -523,7 +523,7 @@
     "712be3ec-8064-4bfe-8d80-31e5fc88d3dc": {
       "IsOverlay": false,
       "OverlaySourceId": null,
-      "Name": "å¹³æ—¥-å°‘",
+      "Name": "Æ½ÈÕ-ÉÙ",
       "Layouts": [
         {
           "StartSecond": "",
@@ -557,7 +557,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "ae33bafb-f98e-4868-98ba-9eea3fbc73a9",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": false,
@@ -827,7 +827,7 @@
           "TimeType": 1,
           "IsHideDefault": false,
           "DefaultClassId": "00000000-0000-0000-0000-000000000000",
-          "BreakName": "åˆä¼‘/åˆé¤æ—¶é—´",
+          "BreakName": "ÎçĞİ/Îç²ÍÊ±¼ä",
           "ActionSet": null,
           "AttachedObjects": {
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -871,7 +871,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "f9e82468-c202-4d80-840e-05a53bc625b8",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": false,
@@ -1002,7 +1002,7 @@
     "d49f2d3d-bb06-4954-b77e-73b8a66be7db": {
       "IsOverlay": false,
       "OverlaySourceId": null,
-      "Name": "å¹³æ—¥-å°è€ƒ",
+      "Name": "Æ½ÈÕ-Ğ¡¿¼",
       "Layouts": [
         {
           "StartSecond": "",
@@ -1036,7 +1036,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "ae33bafb-f98e-4868-98ba-9eea3fbc73a9",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": false,
@@ -1306,7 +1306,7 @@
           "TimeType": 1,
           "IsHideDefault": false,
           "DefaultClassId": "00000000-0000-0000-0000-000000000000",
-          "BreakName": "åˆä¼‘/åˆé¤æ—¶é—´",
+          "BreakName": "ÎçĞİ/Îç²ÍÊ±¼ä",
           "ActionSet": null,
           "AttachedObjects": {
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -1350,7 +1350,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "f9e82468-c202-4d80-840e-05a53bc625b8",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": false,
@@ -1524,14 +1524,14 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "55f752d7-7b7b-4159-a2e1-a15ec361b948",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": true,
                 "Id": "classisland.showNotification",
                 "Settings": {
-                  "Content": "è¯·åå’Œæ”¾å®½ï¼Œå‡†å¤‡å¥½æ¥æ”¶è¯•å·å’Œç­”é¢˜çº¸",
-                  "Mask": "è€ƒè¯•å³å°†å¼€å§‹",
+                  "Content": "Çë×øºÍ·Å¿í£¬×¼±¸ºÃ½ÓÊÕÊÔ¾íºÍ´ğÌâÖ½",
+                  "Mask": "¿¼ÊÔ¼´½«¿ªÊ¼",
                   "IsContentSpeechEnabled": true,
                   "IsMaskSpeechEnabled": false,
                   "IsAdvancedSettingsEnabled": false,
@@ -1571,7 +1571,7 @@
     "274ca633-273e-4752-bca2-24e1aea8b630": {
       "IsOverlay": false,
       "OverlaySourceId": null,
-      "Name": "å¹³æ—¥-å¤§è€ƒ",
+      "Name": "Æ½ÈÕ-´ó¿¼",
       "Layouts": [
         {
           "StartSecond": "",
@@ -1605,7 +1605,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "ae33bafb-f98e-4868-98ba-9eea3fbc73a9",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": false,
@@ -1875,7 +1875,7 @@
           "TimeType": 1,
           "IsHideDefault": false,
           "DefaultClassId": "00000000-0000-0000-0000-000000000000",
-          "BreakName": "åˆä¼‘/åˆé¤æ—¶é—´",
+          "BreakName": "ÎçĞİ/Îç²ÍÊ±¼ä",
           "ActionSet": null,
           "AttachedObjects": {
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -1919,7 +1919,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "f9e82468-c202-4d80-840e-05a53bc625b8",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": false,
@@ -2053,14 +2053,14 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "55f752d7-7b7b-4159-a2e1-a15ec361b948",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": true,
                 "Id": "classisland.showNotification",
                 "Settings": {
-                  "Content": "è¯·åå’Œæ”¾å®½ï¼Œå‡†å¤‡å¥½æ¥æ”¶è¯•å·å’Œç­”é¢˜çº¸",
-                  "Mask": "è€ƒè¯•å³å°†å¼€å§‹",
+                  "Content": "Çë×øºÍ·Å¿í£¬×¼±¸ºÃ½ÓÊÕÊÔ¾íºÍ´ğÌâÖ½",
+                  "Mask": "¿¼ÊÔ¼´½«¿ªÊ¼",
                   "IsContentSpeechEnabled": true,
                   "IsMaskSpeechEnabled": false,
                   "IsAdvancedSettingsEnabled": false,
@@ -2100,7 +2100,7 @@
     "d0775446-6a9a-408b-a384-53f695a1abf3": {
       "IsOverlay": false,
       "OverlaySourceId": null,
-      "Name": "æ™šè‡ªä¹ ",
+      "Name": "Íí×ÔÏ°",
       "Layouts": [
         {
           "StartSecond": "",
@@ -2110,7 +2110,7 @@
           "TimeType": 1,
           "IsHideDefault": false,
           "DefaultClassId": "00000000-0000-0000-0000-000000000000",
-          "BreakName": "æ™šä¼‘/æ™šé¤æ—¶é—´",
+          "BreakName": "ÍíĞİ/Íí²ÍÊ±¼ä",
           "ActionSet": null,
           "AttachedObjects": {
             "7625de96-38aa-4b71-b478-3f156dd9458d": {
@@ -2154,7 +2154,7 @@
           "ActionSet": {
             "IsWorking": false,
             "Guid": "9170f429-67f6-4986-943f-7c262e0b2b86",
-            "Name": "æ–°è¡ŒåŠ¨ç»„",
+            "Name": "ĞÂĞĞ¶¯×é",
             "Actions": [
               {
                 "IsCompleted": true,
