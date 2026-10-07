@@ -16,6 +16,6 @@
     },
     "PolicySource": {
         "Value": "https://ghproxy.net/https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Policy.json",
-        "Version": 8
+        "Version": -1
     }
 }
