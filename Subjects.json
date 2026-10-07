@@ -554,9 +554,33 @@
         }
       },
       "IsActive": false
+    },
+    "4e7ed287-4678-4c18-95b9-ec49dccba34f": {
+      "Name": "选修课",
+      "Initial": "选",
+      "TeacherName": "",
+      "IsOutDoor": true,
+      "AttachedObjects": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 900,
+          "ClassOnPreparingText": "下节课为选修课，请及时前往相应教室；在本班上课的同学请签到",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "选修课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "选修课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
     }
   },
-  "IsOverlayClassPlanEnabled": false,
+  "IsOverlayClassPlanEnabled": true,
   "OverlayClassPlanId": null,
   "TempClassPlanId": null,
   "TempClassPlanSetupTime": "2026-10-03T16:40:09.3953572+08:00",
@@ -574,12 +598,27 @@
   },
   "SelectedClassPlanGroupId": "00000000-0000-0000-0000-000000000000",
   "TempClassPlanGroupId": null,
-  "TempClassPlanGroupExpireTime": "2026-10-01T19:17:48.2025766+08:00",
+  "TempClassPlanGroupExpireTime": "2026-10-10T00:00:00+08:00",
   "IsTempClassPlanGroupEnabled": false,
   "TempClassPlanGroupType": 1,
   "Id": "279f603f-d510-4585-8caf-0698af855742",
   "OrderedSchedules": {
-
+    "2026-10-08T00:00:00+08:00": {
+      "ClassPlanId": "ad3a86df-8a9f-4416-b269-5b27e68d1362",
+      "IsActive": false
+    },
+    "2026-10-13T00:00:00+08:00": {
+      "ClassPlanId": "982a1737-4331-438b-98dc-b9fcbbcd0a1b",
+      "IsActive": false
+    },
+    "2026-10-09T00:00:00": {
+      "ClassPlanId": "976a8555-43aa-4612-817f-763471b2e47e",
+      "IsActive": false
+    },
+    "2026-10-10T00:00:00": {
+      "ClassPlanId": "401a12a3-ba33-4fde-a4af-0caec69a48d7",
+      "IsActive": false
+    }
   },
   "IsActive": false
 }
