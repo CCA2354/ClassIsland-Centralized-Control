@@ -4,15 +4,15 @@
     "OrganizationName": "Not-Laptop",
     "ClassPlanSource": {
         "Value": "https://ghproxy.net/https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Classplans.json",
-        "Version": 8
+        "Version": 9
     },
     "TimeLayoutSource": {
         "Value": "https://ghproxy.net/https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Timelayouts.json",
-        "Version": 8
+        "Version": 9
     },
     "SubjectsSource": {
         "Value": "https://ghproxy.net/https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Subjects.json",
-        "Version": 8
+        "Version": 9
     },
     "PolicySource": {
         "Value": "https://ghproxy.net/https://raw.githubusercontent.com/CCA2354/ClassIsland-Centralized-Control/master/Policy.json",
